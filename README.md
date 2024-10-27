@@ -30,8 +30,8 @@ la_census_tract/
 
 ## Data
 
-- **chicago_census_tract/**: Contains shapefiles for Chicago census tracts. ([download link](https://geohub.lacity.org/datasets/la-city-2020-census-tracts-/explore))
-- **la_census_tract/**: Contains shapefiles for Los Angeles census tracts. ([download link](https://data.cityofchicago.org/api/geospatial/5jrd-6zik?method=export&format=Shapefile))
+- **chicago_census_tract/**: Contains shapefiles for Chicago census tracts.  ([download link](https://data.cityofchicago.org/api/geospatial/5jrd-6zik?method=export&format=Shapefile))
+- **la_census_tract/**: Contains shapefiles for Los Angeles census tracts. ([download link](https://geohub.lacity.org/datasets/la-city-2020-census-tracts-/explore))
 - **crime_data/**: Contains CSV files with crime data for Chicago and Los Angeles.
 
 ## Usage
