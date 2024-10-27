@@ -4,7 +4,6 @@ This project analyzes crime data for Chicago and Los Angeles, aggregating crime 
 ## Project Structure
 
 ```
-.DS_Store
 .gitignore
 chicago_census_tract/
     geo_export_2d3ffe6a-dd57-46d5-86e3-4f42a4df0e73.cpg
@@ -14,13 +13,11 @@ chicago_census_tract/
     geo_export_2d3ffe6a-dd57-46d5-86e3-4f42a4df0e73.shx
 crime_chicago.ipynb
 crime_data/
-    .DS_Store
     crime_chicago_2001_2024_by_tract_type.csv
     crime_chicago_2001_2024.csv
     ...
 crime_demo.ipynb
 crime_la.ipynb
-crime.html
 la_census_tract/
     ...
 ```
@@ -33,9 +30,9 @@ la_census_tract/
 
 ## Data
 
-- **chicago_census_tract/**: Contains shapefiles for Chicago census tracts.
+- **chicago_census_tract/**: Contains shapefiles for Chicago census tracts. ([download link](https://geohub.lacity.org/datasets/la-city-2020-census-tracts-/explore))
 - **crime_data/**: Contains CSV files with crime data for Chicago and Los Angeles.
-- **la_census_tract/**: Contains shapefiles for Los Angeles census tracts.
+- **la_census_tract/**: Contains shapefiles for Los Angeles census tracts. ([download link](https://data.cityofchicago.org/api/geospatial/5jrd-6zik?method=export&format=Shapefile))
 
 ## Usage
 
