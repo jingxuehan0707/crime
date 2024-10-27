@@ -1,2 +1,4 @@
 /.DS_Store
-/crime_data
+/crime_data/crime_chicago_2024.csv
+/crime_data/crime_chicago_2001_2024.csv
+/crime_data/crime_la_2020_2024.csv
